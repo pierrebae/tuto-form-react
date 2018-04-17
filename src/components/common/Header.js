@@ -32,7 +32,7 @@ function Header(props) {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="title" color="inherit" className={classes.flex}>
-                        Title
+                        Formulaire de réclamation
                     </Typography>
                     <Button color="inherit">Login</Button>
                 </Toolbar>
